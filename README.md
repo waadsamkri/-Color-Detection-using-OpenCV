@@ -45,15 +45,8 @@ Each detected color is highlighted with a bounding box and labeled in English.
 ## 🚀 How to Run (Quick Steps)
 
 1. Open [Google Colab](https://colab.research.google.com/)
-2. Upload the file `color_detection.ipynb`
-3. Run the **first cell** to capture an image using your webcam
-4. Run the **second cell** to detect and label colors in the image
-5. View the result with bounding boxes and color names
+2. Run the first cell to capture an image using your webcam
+3. Run the second cell to detect and label colors in the image
+4. View the result with bounding boxes and color names
 
----
-
-## 📁 Files
-
-- `color_detection.ipynb` – The main notebook with all the code
-- `README.md` – This documentation file
 
